@@ -1,6 +1,6 @@
 'use strict';
 const _ = require('lodash');
-const libs = require('./lib');
+const libs = require('https://raw.githubusercontent.com/zefelise/nr_synthetic_demo/main/lib.js');
 
 
 
